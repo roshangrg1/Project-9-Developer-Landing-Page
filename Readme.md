@@ -1,5 +1,5 @@
 
-# Project-8 Web design Landing Page.
+# Project-9 Developer Landing Page
 
 This is simple website of home page. In this project I have only used core css. It is responsive as well.
 
@@ -22,10 +22,10 @@ This is simple website of home page. In this project I have only used core css. 
 ## Benifits of making this project.
 
 
- - Flex-box consume lesss time to make nav while using core css only.
- - Also learned concept of position .
+ - Learned to make responsive we need alot of testing for all screen. Hence making responsive is same as writing css but in different screen.
+ - Also learned concept of position , float.
  - Learned @media query to adjust according to screen.
- - Also i learned how does opacity and z-index work.
+ 
 
 
 
